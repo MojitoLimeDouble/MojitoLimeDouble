@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MojitoLimeDouble
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning python
-- 📫 How to reach me gonaldo13@gmail.com
+- 📫 How to reach me gonaldo94@naver.com
 
 <!---
 MojitoLimeDouble/MojitoLimeDouble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
