@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MojitoLimeDouble
-- 📫 My blog is https://mld42.tistory.com
+- 🖖 Hi, I’m @MojitoLimeDouble
+- 💽 My blog is https://mld42.tistory.com
 
 <hr/>
 
