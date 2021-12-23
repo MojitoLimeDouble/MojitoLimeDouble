@@ -47,3 +47,13 @@ echo "Hello Mojito!";
 ```
 __projects__:    
 [FirstPHP](https://github.com/MojitoLimeDouble/FirstPHP)
+
+<hr/>
+
+<img src="https://user-images.githubusercontent.com/66380736/147283074-4ef73013-335b-4db2-aeaf-1d6a0b7c6ea4.png" width="100px" height="100px">
+
+```js
+console.log("Hello Mojito!");
+```
+__projects__:    
+[FirstJsGame](https://github.com/MojitoLimeDouble/FirstJsGame)
