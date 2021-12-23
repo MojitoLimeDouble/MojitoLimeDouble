@@ -3,6 +3,21 @@
 
 <hr/>
 
+<img src="https://user-images.githubusercontent.com/66380736/147230622-61a624e3-afa1-4761-8230-a782ccb6490d.png" width="100px" height="100px"/>
+
+```c
+#include <stdio.h>
+int main(void) {
+  printf("Hello Mojito!");
+  return 0;
+}
+```
+
+__projects__:    
+[FirstC](https://github.com/MojitoLimeDouble/FirstC)
+
+<hr/>
+
 <img src="https://user-images.githubusercontent.com/66380736/146685970-32e43826-2378-4edb-bc6c-2a2c7edf3d93.png" width="100px" height="100px"/>
 
 ```ruby
