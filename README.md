@@ -42,7 +42,7 @@ __projects__:
 
 ```php
 <?php
-echo "Hello World";
+echo "Hello Mojito!";
 ?>
 ```
 __projects__:    
