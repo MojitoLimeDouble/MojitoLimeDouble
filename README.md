@@ -18,16 +18,6 @@ __projects__:
 
 <hr/>
 
-<img src="https://user-images.githubusercontent.com/66380736/146685970-32e43826-2378-4edb-bc6c-2a2c7edf3d93.png" width="100px" height="100px"/>
-
-```ruby
-puts "Hello Mojito!"
-```
-__projects__:    
-[FirstRails](https://github.com/MojitoLimeDouble/FirstRails)
-
-<hr/>
-
 <img src="https://user-images.githubusercontent.com/66380736/146814422-7a7224a5-2249-455e-a0bd-3b540979beb3.png" width="100px" height="100px"/>
 
 ```java
@@ -35,6 +25,16 @@ System.out.println("Hello Mojito!");
 ```
 __projects__:    
 [FastCampusJava](https://github.com/MojitoLimeDouble/FastCampusJava)
+
+<hr/>
+
+<img src="https://user-images.githubusercontent.com/66380736/147283074-4ef73013-335b-4db2-aeaf-1d6a0b7c6ea4.png" width="100px" height="100px">
+
+```js
+console.log("Hello Mojito!");
+```
+__projects__:    
+[FirstJsGame](https://github.com/MojitoLimeDouble/FirstJsGame)
 
 <hr/>
 
@@ -50,10 +50,21 @@ __projects__:
 
 <hr/>
 
-<img src="https://user-images.githubusercontent.com/66380736/147283074-4ef73013-335b-4db2-aeaf-1d6a0b7c6ea4.png" width="100px" height="100px">
+<img src="https://user-images.githubusercontent.com/66380736/147381529-74798834-3de4-471a-a0c1-2d1f25125b05.png" width="100px" height="100px">
 
-```js
-console.log("Hello Mojito!");
+```python
+print("Hello Mojito!")
 ```
 __projects__:    
-[FirstJsGame](https://github.com/MojitoLimeDouble/FirstJsGame)
+[Elice_AI_Track_first](https://github.com/MojitoLimeDouble/elice_pj_test)   
+[Elice_AI_Track_secondd](https://github.com/MojitoLimeDouble/Elice-OTT-Project)
+
+<hr/>
+
+<img src="https://user-images.githubusercontent.com/66380736/146685970-32e43826-2378-4edb-bc6c-2a2c7edf3d93.png" width="100px" height="100px"/>
+
+```ruby
+puts "Hello Mojito!"
+```
+__projects__:    
+[FirstRails](https://github.com/MojitoLimeDouble/FirstRails)
