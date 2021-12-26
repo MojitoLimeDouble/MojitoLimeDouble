@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:2828CD&height=300&section=header&text=Mojito&fontSize=90&fontColor=FFF&" />
+
 - 🖖 Hi, I’m @MojitoLimeDouble
 - 💽 My blog is https://mld42.tistory.com
 
@@ -69,3 +71,7 @@ puts "Hello Mojito!"
 ```
 __projects__:    
 [FirstRails](https://github.com/MojitoLimeDouble/FirstRails)
+
+<hr/>
+
+![MojitoLimeDouble's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojitoLimeDouble&show_icons=true&theme=cobalt)
