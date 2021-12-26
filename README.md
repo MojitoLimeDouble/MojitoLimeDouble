@@ -67,4 +67,4 @@ __projects__:
 puts "Hello Mojito!"
 ```
 __projects__:    
-[FirstRails](https://github.com/MojitoLimeDouble/FirstRails)e
+[FirstRails](https://github.com/MojitoLimeDouble/FirstRails)
