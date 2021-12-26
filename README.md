@@ -57,7 +57,7 @@ print("Hello Mojito!")
 ```
 __projects__:    
 [Elice_AI_Track_first](https://github.com/MojitoLimeDouble/elice_pj_test)   
-[Elice_AI_Track_second](https://github.com/MojitoLimeDouble/Elice-OTT-Project)
+[Elice_AI_Track_second](https://github.com/MojitoLimeDouble/Elice-OTT-Project)   
 [Elice_AI_Track_final](https://github.com/MojitoLimeDouble/Elice_AI_team_project)
 
 <hr/>
